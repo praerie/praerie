@@ -12,10 +12,9 @@
 <img src="https://logospng.org/download/javascript/logo-javascript-icon-1024.png" height="50px" alt="javascript">
 <img src="https://static.cdnlogo.com/logos/c/68/c-sharp-800x800.png" height="49px" alt="c#">
 <img src="http://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" height="48px" alt="react">
-<br>
 <img src="https://c.geeksocket.in/uploads/2020/hugo-logo-wide.png" height="50px" alt="hugo">
 </p>
 
 <hr>
-<h6><em>Different perspectives support better innovation — the core of the engineering way of life.</em> — Ronit Polak</h6>
+<b><em>Different perspectives support better innovation — the core of the engineering way of life.</em></b> — Ronit Polak
 
