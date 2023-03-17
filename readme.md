@@ -3,8 +3,8 @@
 </p>
 
 <h3 align="center">Aspiring software developer.</h3>
-<hr>
 
+<hr>
 <p align="center">
 <img src="http://thatneedle.com/img/python_logo.png" height="50px" alt="python">
 <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" height="46px" alt="html">
@@ -16,5 +16,5 @@
 </p>
 
 <hr>
-<b><em>Different perspectives support better innovation — the core of the engineering way of life.</em></b> — Ronit Polak
+<h4 align="center"><em>Different perspectives support better innovation:<br>the core of the engineering way of life.</em><br>— Ronit Polak</h4>
 
