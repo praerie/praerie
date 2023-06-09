@@ -2,8 +2,6 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UxZDU5ZTk2ZGM4YzQ3MzVmNWRhMWNlNjE2MzM4ZDMyZTY4NzEyMyZjdD1z/IauL6LvGNlT3ffhcqq/giphy.gif" height="300px">
 </p>
 
-<h3 align="center">Aspiring software developer.</h3>
-
 <hr>
 <p align="center">
 <img src="http://thatneedle.com/img/python_logo.png" height="50px" alt="python">
