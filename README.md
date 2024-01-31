@@ -1,6 +1,6 @@
 ```css
 #Adelie {
-    role: engineer;
+    role: developer;
     objective: 'good design';
     personality: curiosity * grit;
     strength: empathy;
