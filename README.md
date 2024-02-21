@@ -1,6 +1,9 @@
 <div align="center">
+    <img alt="logo with stylized letters 'AE'" src="https://i.imgur.com/xeKO8i1.png" width="100px" />
     <h3><i>“If at first the idea is not absurd,<br />then there is no hope for it.”</i></h3>
 </div>
+
+<hr />
 
 ```css
 #Adelie {
@@ -13,7 +16,7 @@
 }
 ```
 
-<hr>
+<hr />
 
 <p align="center">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UxZDU5ZTk2ZGM4YzQ3MzVmNWRhMWNlNjE2MzM4ZDMyZTY4NzEyMyZjdD1z/IauL6LvGNlT3ffhcqq/giphy.gif" height="300px">
