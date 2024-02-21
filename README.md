@@ -1,5 +1,9 @@
 <div align="center">
-    <img alt="logo with stylized letters 'AE'" src="https://i.imgur.com/xeKO8i1.png" width="100px" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/xeKO8i1.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/QGQPTUl.png">
+      <img alt="logo with stylized letters 'AE'" width="100px" />
+    </picture>
     <h3><i>“If at first the idea is not absurd,<br />then there is no hope for it.”</i></h3>
 </div>
 
