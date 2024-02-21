@@ -1,3 +1,7 @@
+<div align="center">
+    <h3><i>“If at first the idea is not absurd,<br />then there is no hope for it.”</i></h3>
+</div>
+
 ```css
 #Adelie {
     role: developer;
@@ -31,7 +35,4 @@
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=praerie&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" /></a>
 </p>
-
-<hr>
-<h4 align="center"><em>Different perspectives support better innovation:<br>the core of the engineering way of life.</em><br>— Ronit Polak</h4>
 
