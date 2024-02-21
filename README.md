@@ -18,10 +18,6 @@
 
 <hr />
 
-<p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2UxZDU5ZTk2ZGM4YzQ3MzVmNWRhMWNlNjE2MzM4ZDMyZTY4NzEyMyZjdD1z/IauL6LvGNlT3ffhcqq/giphy.gif" height="300px">
-</p>
-
 <div align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=black&labelColor=%23E34F26&color=%23E87251">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=black&labelColor=%231572B6&color=%23438EC4">
