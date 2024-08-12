@@ -11,7 +11,6 @@
 
 ```css
 #Adelie {
-    objective: 'good design';
     personality: curiosity * grit;
     strength: empathy;
     affinity: languages;
