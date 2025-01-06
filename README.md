@@ -10,11 +10,14 @@
 <hr />
 
 ```css
-#Adelie {
-    personality: curiosity * grit;
-    strength: empathy;
-    affinity: languages;
-    quirk: jack-of-all-hobbies;
+Adelie {
+    --developer-style: {
+        impetus: creation;
+        nexus: art / technology;
+        personality: curiosity * grit;
+        value-proposition: creativity + empathy;
+        affinity: language;
+    };
 }
 ```
 
