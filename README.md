@@ -4,7 +4,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/QGQPTUl.png">
       <img alt="logo with stylized letters 'AE'" width="100px" />
     </picture>
-    <h3><i>“If at first the idea is not absurd,<br />then there is no hope for it.”</i></h3>
+    <h3><i>"Art challenges technology, and technology inspires art."</i></h3>
 </div>
 
 <hr />
