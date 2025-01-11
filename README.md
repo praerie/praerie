@@ -9,15 +9,15 @@
 
 <hr />
 
-```css
-Adelie {
-    --developer-style: {
-        impetus: creation;
-        nexus: art / technology;
-        personality: curiosity * grit;
-        value-proposition: creativity + empathy;
-        affinity: language;
-    };
+```json
+{
+  "developerStyle": {
+    "impetus": "creation",
+    "nexus": "art / technology",
+    "personality": "curiosity * grit",
+    "valueProposition": "creativity + empathy",
+    "affinity": "language"
+  }
 }
 ```
 
