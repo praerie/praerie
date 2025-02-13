@@ -24,7 +24,7 @@
 <hr />
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=praerie&theme=green-nur&background=45%2C0D1117%2C0D1117&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=praerie&hide_current_streak=true&theme=green-nur&background=45%2C0D1117%2C0D1117&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
