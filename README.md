@@ -24,10 +24,6 @@
 <hr />
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=praerie&hide_current_streak=true&theme=green-nur&background=45%2C0D1117%2C0D1117&hide_border=true" alt="GitHub Streak" /></a>
-</div>
-
-<div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=praerie&column=5&row=1&margin-w=5&theme=tokyonight" alt="trophy" />
     </a>
