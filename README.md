@@ -12,11 +12,9 @@
 ```json
 {
   "developerStyle": {
-    "impetus": "creation",
-    "nexus": "art / technology",
-    "personality": "curiosity * grit",
-    "valueProposition": "creativity + empathy",
-    "affinity": "language"
+    "motivation": "creation",
+    "nexus": "art * technology",
+    "aspiration": "emotional resonance * technical excellence",
   }
 }
 ```
