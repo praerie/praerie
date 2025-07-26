@@ -12,9 +12,9 @@
 ```json
 {
   "developerProfile": {
-    "nexus": "art * technology",
+    "nexus": "art × technology",
     "motivation": "creation",
-    "pillars": "emotional resonance * technical excellence",
+    "pillars": ["emotional resonance", "technical excellence"]
   }
 }
 ```
