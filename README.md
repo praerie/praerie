@@ -11,10 +11,10 @@
 
 ```json
 {
-  "developerStyle": {
-    "motivation": "creation",
+  "developerProfile": {
     "nexus": "art * technology",
-    "aspiration": "emotional resonance * technical excellence",
+    "motivation": "creation",
+    "pillars": "emotional resonance * technical excellence",
   }
 }
 ```
