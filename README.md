@@ -13,8 +13,9 @@
 {
   "developerProfile": {
     "nexus": "art × science",
-    "motivation": "creation",
-    "pillars": ["emotional resonance", "technical excellence"]
+    "motivation": "crafting meaningful experiences",
+    "focus": "film-tech pipelines, creative coding, open source",
+    "values": ["curiosity", "clarity", "community"],
   }
 }
 ```
