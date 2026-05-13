@@ -1,8 +1,8 @@
 <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/xeKO8i1.png">
-      <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/QGQPTUl.png">
-      <img alt="logo with stylized letters 'AE'" width="100px" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/2CqA32W.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/2CqA32W.png">
+      <img alt="floppy disk logo with stylized letters 'ae'" width="100px" />
     </picture>
     <h3><i>"Art challenges technology, and technology inspires art."</i></h3>
 </div>
