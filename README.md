@@ -19,11 +19,3 @@
   }
 }
 ```
-
-<hr />
-
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=praerie&column=5&row=1&margin-w=5&theme=tokyonight" alt="trophy" />
-    </a>
-</div>
